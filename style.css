@@ -1,0 +1,92 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+section{
+    margin-bottom:100px;
+}
+.top{
+    display: flex;
+}
+.half-div{
+    width: 50%;
+    margin-left:5%;
+    margin-right: 5px;
+}
+.half-div img{
+    width: 400px;
+    padding-left: 5%;
+}
+.orange{
+    color: orange;
+}
+h1{
+    font-size:45px;
+}
+.linktab{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px 30px;
+    color: white;
+    font-size: 18px; 
+}
+.mission h1{
+    text-align: center;
+}
+.One{
+    display: flex;
+}   
+.one-third{
+    width:30%;
+    margin-left: 3%;
+    margin-right: 3%;
+    padding-left: 15px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 40px gray;
+}
+.one-third img{
+    width:200px;
+    margin: 0;
+    padding: 0;
+}
+.num1{
+    background-color: rgb(47, 47, 114);
+}
+.num2{
+    background-color: pink;
+}
+.num3{
+    background-color: rgb(151, 139, 118);
+}
+.img3{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.img4{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: bottom right;
+}
+.fifth{
+    background-image: url(images/shapes/shape-3.png);
+    background-repeat: no-repeat;
+    background-position:top left;
+}
+.foot{
+    width:100%;
+    height: 200px;
+    background-color: black;
+}
+.foot h1{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+.foot p{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+
